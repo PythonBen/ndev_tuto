@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ndev_tuto"
+  site-url: "https://PythonBen.github.io/ndev_tuto"
+  description: "learn to work with ndev tool"
+  repo-branch: main
+  repo-url: "https://github.com/PythonBen/ndev_tuto"
