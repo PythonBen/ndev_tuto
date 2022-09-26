@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://PythonBen.github.io',
                 'git_url': 'https://github.com/PythonBen/ndev_tuto',
                 'lib_path': 'ndev_tuto'},
-  'syms': {'ndev_tuto.core': {'ndev_tuto.core.foo': ('core.html#foo', 'ndev_tuto/core.py')}}}
+  'syms': {'ndev_tuto.core': {'ndev_tuto.core.say_hello': ('first_notebook.html#say_hello', 'ndev_tuto/core.py')}}}
