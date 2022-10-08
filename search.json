@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ndev_tuto",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "ndev_tuto",
+    "section": "Install",
+    "text": "Install\npip install ndev_tuto"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "ndev_tuto",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "first_notebook.html",
+    "href": "first_notebook.html",
+    "title": "My project",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\ndef my_func(*args):\n    return sum(*args)\n\nl1 = list(range(4))\nres = my_func(l1)\nprint(res)\n\n6"
+  }
+]
